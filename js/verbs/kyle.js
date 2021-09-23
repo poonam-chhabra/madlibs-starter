@@ -4,5 +4,5 @@ verbs = verbs.concat([
     'code',
     'eat',
     'sleep',
-    'reads'
+    'read'
 ]);
